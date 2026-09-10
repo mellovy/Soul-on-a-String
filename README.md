@@ -3,7 +3,9 @@
 A visual novel game following an enemies-to-lovers story — two rivals pulled apart, finding their way back to each other.
 
 **Genre:** Visual Novel / Romance (Enemies to Lovers)
+
 **Engine:** [Godot Engine](https://godotengine.org/) (Standard build, v4.7.2.stable)
+
 **Status:** 🚧 In development
 
 ---
