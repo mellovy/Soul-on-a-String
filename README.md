@@ -25,10 +25,11 @@ A visual novel game following an enemies-to-lovers story — two rivals pulled a
 **Screenshots:**
 
 Godot scene running with placeholder sprite:
-![Godot Hello World scene](screenshots/godot-hello-world.png)
+<img width="1159" height="720" alt="image" src="https://github.com/user-attachments/assets/d7af6b90-3755-45db-98db-f943ca3b2c34" />
 
 Git LFS tracking + commit/push in terminal:
-![Git LFS setup and push](screenshots/git-lfs-setup.png)
+<img width="613" height="876" alt="Screenshot 2026-09-10 214127" src="https://github.com/user-attachments/assets/ab71be84-04ab-4e38-86c3-7d9b812c80ef" />
+
 
 **Commits:**
 - `Add Godot .gitignore`
