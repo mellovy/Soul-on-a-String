@@ -43,3 +43,27 @@ Git LFS tracking + commit/push in terminal:
 ## Built With
 - [Godot Engine](https://godotengine.org/)
 - Git + Git LFS
+
+---
+
+Week 2 — Gameplay Mechanics & Game Feel
+
+Goal: Build the core player-controlled mechanic and add a "game feel" / juice element.
+
+Core mechanic: The player walks around the scene using CharacterBody2D, and colliding with an NPC (Area2D) triggers the start of a conversation — the foundation for the game's dialogue/relationship system.
+
+What was done:
+
+Set up custom Input Map actions: move_left, move_right, move_forward, move_back.
+Created a Player scene (CharacterBody2D + Sprite2D + CollisionShape2D) with a script reading input and moving the body via move_and_slide().
+Created an NPC scene (Area2D + Sprite2D + CollisionShape2D) that detects when the player enters its area and triggers a conversation-start event.
+Added a squash-and-stretch juice effect on the player sprite while moving, easing back to normal scale when idle.
+Playtested and adjusted movement speed and sprite scale for a readable top-down feel.
+Committed and pushed a playable build.
+
+Commits:
+
+Week 2: core mechanic + juice
+Built With
+Godot Engine
+Git + Git LFS
