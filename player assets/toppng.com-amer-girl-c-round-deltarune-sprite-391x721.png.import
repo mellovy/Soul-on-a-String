@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://x1t2eiyvhb78"
-path="res://.godot/imported/Screenshot 2026-09-10 214206.png-0b9fb7629c04746cc01036864ee11d49.ctex"
+uid="uid://cccm12tjdsrcx"
+path="res://.godot/imported/toppng.com-amer-girl-c-round-deltarune-sprite-391x721.png-c97bc194add40229e91bafac2b49e4ff.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://screenshots/Screenshot 2026-09-10 214206.png"
-dest_files=["res://.godot/imported/Screenshot 2026-09-10 214206.png-0b9fb7629c04746cc01036864ee11d49.ctex"]
+source_file="res://player assets/toppng.com-amer-girl-c-round-deltarune-sprite-391x721.png"
+dest_files=["res://.godot/imported/toppng.com-amer-girl-c-round-deltarune-sprite-391x721.png-c97bc194add40229e91bafac2b49e4ff.ctex"]
 
 [params]
 

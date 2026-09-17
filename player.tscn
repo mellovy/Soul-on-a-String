@@ -1,0 +1,21 @@
+[gd_scene format=3 uid="uid://b3dnmw6fdwfjr"]
+
+[ext_resource type="Script" uid="uid://djmcuadr5f4yi" path="res://player.gd" id="1_onrkg"]
+[ext_resource type="Texture2D" uid="uid://cccm12tjdsrcx" path="res://player assets/toppng.com-amer-girl-c-round-deltarune-sprite-391x721.png" id="2_onrkg"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_eim7m"]
+
+[node name="Node2D" type="Node2D" unique_id=1596844296]
+position = Vector2(544, 291)
+
+[node name="Player" type="CharacterBody2D" parent="." unique_id=462676616]
+script = ExtResource("1_onrkg")
+
+[node name="Sprite2D" type="Sprite2D" parent="Player" unique_id=1726629105]
+position = Vector2(8.583069e-06, -1.0000057)
+scale = Vector2(0.11, 0.1)
+texture = ExtResource("2_onrkg")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="Player" unique_id=1381317565]
+scale = Vector2(0.1, 0.1)
+shape = SubResource("RectangleShape2D_eim7m")
